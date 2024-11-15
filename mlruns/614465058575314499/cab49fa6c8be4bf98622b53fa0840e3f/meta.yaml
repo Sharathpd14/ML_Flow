@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/614465058575314499/cab49fa6c8be4bf98622b53fa0840e3f/artifacts
+end_time: 1731693756586
+entry_point_name: ''
+experiment_id: '614465058575314499'
+lifecycle_stage: active
+run_id: cab49fa6c8be4bf98622b53fa0840e3f
+run_name: receptive-roo-165
+run_uuid: cab49fa6c8be4bf98622b53fa0840e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731693748338
+status: 3
+tags: []
+user_id: shara
