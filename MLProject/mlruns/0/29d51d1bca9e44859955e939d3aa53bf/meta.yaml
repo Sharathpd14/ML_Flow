@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29d51d1bca9e44859955e939d3aa53bf/artifacts
+end_time: 1731725302373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29d51d1bca9e44859955e939d3aa53bf
+run_name: youthful-steed-688
+run_uuid: 29d51d1bca9e44859955e939d3aa53bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731725246831
+status: 3
+tags: []
+user_id: shara

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0ff493cceb8d46519bc98651334bd71a/artifacts
+deleted_time: 1731725339928
+end_time: 1731725134541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0ff493cceb8d46519bc98651334bd71a
+run_name: intelligent-stag-467
+run_uuid: 0ff493cceb8d46519bc98651334bd71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731725078032
+status: 4
+tags: []
+user_id: shara

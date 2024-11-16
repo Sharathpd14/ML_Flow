@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/27ae7c0361eb4d0f8762e56fecf4c880/artifacts
+deleted_time: 1731725339928
+end_time: 1731724910782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 27ae7c0361eb4d0f8762e56fecf4c880
+run_name: indecisive-loon-579
+run_uuid: 27ae7c0361eb4d0f8762e56fecf4c880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731724858639
+status: 4
+tags: []
+user_id: shara
